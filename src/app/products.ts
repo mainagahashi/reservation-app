@@ -23,10 +23,10 @@ export const products = [
     description: '',
   },
   {
-    name: 'Phone XL',
+    name: 'Phone16 XL',
     price: 799,
     description: 'A large phone with one of the best screens',
-    head1: 'mom',
+    head1: 'hoo',
     head2: 'mom2',
     head3: 'mom3',
   },
